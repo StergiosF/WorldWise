@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-02-08T17:46:51.850Z",
+      "notes": "",
+      "position": {
+        "lat": "40.413496049701955",
+        "lng": "-3.7133789062500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Ferentillo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-02-08T18:02:43.707Z",
+      "notes": "",
+      "position": {
+        "lat": "42.633958722673164",
+        "lng": "12.85400390625"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Domokos",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-02-08T18:02:47.480Z",
+      "notes": "",
+      "position": {
+        "lat": "39.07890809706475",
+        "lng": "22.21435546875"
+      },
+      "id": 3
+    }
+  ]
+}
