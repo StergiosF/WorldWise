@@ -4,11 +4,11 @@ A web application that helps users keep track of the places they've visited. The
 
 ## Live Demo
 
-Check out the live version here: 
+Check out the live version here: https://worldwise-stergios.netlify.app
 
 ## About The Project
 
-[![Homepage Preview](/public/app_preview.png)](https://yourwebsite.netlify.app)
+[![Homepage Preview](/public/app_preview.png)](https://worldwise-stergios.netlify.app)
 
 WorldWise is a travel-tracking web application that allows users to log their journeys and view the places they visit on an interactive map. Users can explore detailed information about each city or country they’ve been to.
 
