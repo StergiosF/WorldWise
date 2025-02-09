@@ -10,7 +10,7 @@ Check out the live version here:
 
 [![Homepage Preview](/public/app_preview.png)](https://yourwebsite.netlify.app)
 
-WorldWise is a travel-tracking web application that allows users to log their journeys and view their visited places on an interactive map. Users can explore detailed information about each city or country they’ve been to.
+WorldWise is a travel-tracking web application that allows users to log their journeys and view the places they visit on an interactive map. Users can explore detailed information about each city or country they’ve been to.
 
 ### Features
 
@@ -18,8 +18,10 @@ WorldWise is a travel-tracking web application that allows users to log their jo
 - **Track Visited Places**: Save cities and countries you’ve traveled to.
 - **Wikipedia Integration**: Get more details about each location.
 - **React Routing**: Smooth navigation between different sections.
-- **Optimized Performance**: Uses `useMemo` and `useCallback` for efficient rendering.
+- **Fake Authentication**: Simulated login/logout for a personalized experience.
 - **Context API**: Centralized state management for tracking user locations.
+- **Optimized Performance**: Uses `useMemo` and `useCallback` for efficient rendering.
+- **Lazy Loading**: Dynamically loads components to improve performance.
 
 ## Built With
 
@@ -29,7 +31,9 @@ This application is built using the following technologies:
 - [React Router](https://reactrouter.com/) – Client-side navigation
 - [React Context API](https://react.dev/reference/react/useContext) – State management
 - [useMemo & useCallback](https://react.dev/reference/react/useMemo) – Performance optimization
+- [React Lazy & Suspense](https://react.dev/reference/react/lazy) – Lazy loading for performance boost
 - [Leaflet.js](https://leafletjs.com/) – Interactive maps
+- [Netlify](https://www.netlify.com/) – Deployment
 
 ## Getting Started
 
