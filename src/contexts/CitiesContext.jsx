@@ -6,7 +6,7 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "https://worldwise-j80v.onrender.com/cities";
+const BASE_URL = "https://worldwise-j80v.onrender.com";
 
 const CitiesContext = createContext();
 
