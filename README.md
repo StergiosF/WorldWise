@@ -1,6 +1,6 @@
 # 🌍 WorldWise
 
-A web application that helps users keep track of the places they've visited. The app provides an interactive map to mark visited locations, view past trips, and explore more about cities and countries.
+A React web application that helps users keep track of their travels. The app provides an interactive map to mark visited locations, view past trips, and learn more about cities and countries.
 
 ## Live Demo
 
